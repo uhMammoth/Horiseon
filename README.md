@@ -1,13 +1,11 @@
 # Horiseon website 
 
+This project is a demo of the Horiseon website with some corrections from the original source code
 
+## Original project code
 
-## Pull the source code
+https://github.com/coding-boot-camp/urban-octo-telegram
 
-```bash
-git pull git@github.com:uhMammoth/Horiseon.git
-git pull https://github.com/uhMammoth/Horiseon.git
-```
 ## Live link
 
 https://uhmammoth.github.io/Horiseon/
